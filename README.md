@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **[Repository Name]**! This repository is designed to help you understand and implement a wide range of **Data Science techniques**. The projects here showcase practical examples across **data preprocessing**, **machine learning**, **exploratory data analysis (EDA)**, **statistical modeling**, **deep learning**, and more. It aims to provide hands-on, end-to-end examples for solving real-world data problems using cutting-edge tools and libraries.
+Welcome to the **[data_Science_repo]**! This repository is designed to help you understand and implement a wide range of **Data Science techniques**. The projects here showcase practical examples across **data preprocessing**, **machine learning**, **exploratory data analysis (EDA)**, **statistical modeling**, **deep learning**, and more. It aims to provide hands-on, end-to-end examples for solving real-world data problems using cutting-edge tools and libraries.
 
 ## Features
 
